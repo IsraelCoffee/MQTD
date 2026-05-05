@@ -1,7 +1,7 @@
 # =============================================================================
 # ANÁLISE DESCRITIVA — SUPERIOR COMPLETO (TOTAL) POR UNIDADE DA FEDERAÇÃO
 # Fonte: Censo 2022 – IBGE
-# Indicador: TOTAL_SC (% pessoas 18+ com superior completo – Total)
+# Indicador: TOTAL_SC (% pessoas com superior completo – Total)
 # =============================================================================
 
 # ── 0. Pacotes a ser instalados ───────────────────────────────────────────────
