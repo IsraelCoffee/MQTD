@@ -1,2 +1,2 @@
 # MQTD
-Métodos Quantitativos para Tomada de Decisão: Aulas, exercícios e projetos.
+Métodos Quantitativos para Tomada de Decisão: Estudos de casos
